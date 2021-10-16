@@ -1,0 +1,8 @@
+{
+    "name": "nodejs-app",
+    "version": "1.0.0",
+    "author": "karthikj",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
